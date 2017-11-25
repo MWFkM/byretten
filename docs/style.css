@@ -1,0 +1,60 @@
+html, body {
+    background: #252525;
+    color:#f0e7d5 !important;    
+}
+body{ 
+    padding:20px;
+}
+
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  color:#e8e8e8
+}
+
+.content pre {
+    background: #191919;
+    color: #efefef;   
+}    
+
+
+.content blockquote {
+  background-color: #252525;
+}
+
+
+.content a {
+    color:#ffcc00;
+}
+
+.content strong {
+  color:#e8e8e8
+}
+
+.content table thead th {
+  color: #363636;
+  border-bottom:2px solid #434343;  
+}
+
+.content table td {
+  border-bottom:1px solid #434343;  
+}
+
+.content table tr:hover {
+    background: #252525;
+}
+
+.content table thead td,
+.content table thead th {
+   color: #b6b6b6;
+}
+
+.content table tfoot td,
+.content table tfoot th {
+   color: #b6b6b6;
+}
+
